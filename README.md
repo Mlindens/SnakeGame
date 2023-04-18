@@ -15,7 +15,7 @@ Python 3.6 or higher
 Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your_username/MySnakeGame.git
+git clone https://github.com/mlindens/SnakeGame.git
 ```
 Navigate to the project directory:
 ```
