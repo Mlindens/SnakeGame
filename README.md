@@ -19,7 +19,7 @@ git clone https://github.com/mlindens/SnakeGame.git
 ```
 Navigate to the project directory:
 ```
-cd MySnakeGame
+cd SnakeGame
 ```
 Run the game:
 ```
